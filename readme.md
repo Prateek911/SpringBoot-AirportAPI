@@ -1,0 +1,1 @@
+A demo project showcasing third party API integration with local repository using Spring.
